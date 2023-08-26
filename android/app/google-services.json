@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "378226427586",
+    "project_id": "loyal-venture-390917",
+    "storage_bucket": "loyal-venture-390917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378226427586:android:7da2a3c3ddc18e8dea5d5b",
+        "android_client_info": {
+          "package_name": "com.example.mexicomagico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378226427586-h02g93u20j502d1vccorfkvngl18kujl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5nDjc4ZJ4ihRQnjFkyCAJjavUaIVDl9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378226427586-h02g93u20j502d1vccorfkvngl18kujl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378226427586:android:a337d95fa65c687dea5d5b",
+        "android_client_info": {
+          "package_name": "com.example.travel_app_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378226427586-h02g93u20j502d1vccorfkvngl18kujl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5nDjc4ZJ4ihRQnjFkyCAJjavUaIVDl9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378226427586-h02g93u20j502d1vccorfkvngl18kujl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
